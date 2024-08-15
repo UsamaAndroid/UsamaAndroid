@@ -1,4 +1,3 @@
-
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Usama Tariq</h1>
 <h3 align="center">A passionate software developer from China migrated from Pakistan</h3>
@@ -19,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cool-usama-tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cool-usama-tariq" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad-usama-tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-usama-tariq" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13053128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-usama-tariq" height="30" width="40" /></a>
 <a href="https://fb.com/usama.bhutta.3386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama.bhutta.3386" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cool usama tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cool usama tariq" height="30" width="40" /></a>
 </p>
