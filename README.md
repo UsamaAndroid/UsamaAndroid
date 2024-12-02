@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Usama Tariq</h1>
-<h3 align="center">A passionate software developer from China migrated from Pakistan</h3>
+<h3 align="center">A passionate software developer in China migrated from Pakistan</h3>
 <img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaandroid&label=Profile%20views&color=0e75b6&style=flat" alt="usamaandroid" /> </p>
