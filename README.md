@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
+[![MasterHead]](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Good Day</h1>
 <h3 align="center">Fixing bug everytime...</h3>
 <img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif">
