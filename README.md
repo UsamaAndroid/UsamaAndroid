@@ -1,4 +1,3 @@
-[![MasterHead]](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Good Day</h1>
 <h3 align="center">Fixing bug everytime...</h3>
 <img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif">
